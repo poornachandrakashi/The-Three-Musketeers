@@ -7,7 +7,7 @@ Team Name : The Three Musketeers
 
 Team Leader :  Poornachandra H Kashi
 Team Member 2 : AKhel P
-Team Memver 3 : Shreyas M
+Team Memerb 3 : Shreyas M
 
 
 Will push the code every 60 Mins

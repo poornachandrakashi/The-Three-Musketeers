@@ -10,4 +10,4 @@ Team Member 2 : AKhel P
 Team Member 3 : Shreyas M
 
 
-Will push the code every 60 Mins
+Will push the code every 60 Mins.
